@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @clelong14
-- 👀 I’m interested in codding applications
-- 📫 How to reach me : colynne.lelong.pro@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Rawr
+- I’m interested in codding applications
+- How to reach me : colynne.lelong.pro@gmail.com
+- Pronouns: She/Her
+- Fun fact: Rawr
 
 <!---
 clelong14/clelong14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
